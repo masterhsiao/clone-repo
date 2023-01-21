@@ -1,0 +1,101 @@
+Location,Supply Source,Item #,Name,Qty. On Hand,Par Level,Min Level,Reorder Qty,Custom #, Bin #, Price, GL #, Pack Count, Custom 1, Custom 2, Custom 3, Ext. Price
+Sumner Vault,LANDSBERG,P001,Large 4 Cell Panoramic_ 225pc/cs_24pp Item#1552338,200,0,0,0,PACKAGING,,71.7,,1,,,,14340
+Sumner Vault,LANDSBERG,P002,Large 4 Cell Box(12pk)_ Landsberg_25pc/bn_15pp Item#1545845,225,0,0,0,PACKAGING,,31.25,,1,,,,7031.25
+Sumner Vault,GREAT LITTLE BOX COMPANY,P003,FLAT Large 4 Cell Box(12Pk) _GLBC_25pc/bn_16pp Item#904320082-001,608,0,0,0,PACKAGING,,38.5,,1,,,,23408
+Sumner Vault,LANDSBERG,P004,LargeBakingCups_NovaCart _10500pc/cs_36pp Item#1555131,30,0,0,0,PACKAGING,,165.14,,1,,,,4954.2
+Sumner Vault,LANDSBERG,P005,MediumBakingCups _NovaCart_20500pc/cs Item#1474382,85,0,0,0,PACKAGING,,115.83,,1,,,,9845.55
+Sumner Vault,LANDSBERG,P006,Small 4 Cell GripB (300/cs),24,0,0,0,PACKAGING,,57.3,,1,,,,1375.2
+Sumner Vault,GREAT LITTLE BOX COMPANY,P007,Small 4 Cell Box(12 pk)_GLBC _25pc/bn,36,0,0,0,PACKAGING,,27.25,,1,,,,981
+Sumner Vault,GRIP B,P008,RingCakeLid_GripB_300pc/cs,0,0,0,0,PACKAGING,,23.7,,1,,,,0
+Sumner Vault,PINN PACK,P009,RingCakeLid_PinnPack _540pc/cs,54,0,0,0,PACKAGING,,34.5,,1,,,,1863
+Sumner Vault,GRIP B,P010,RingCakeBase_GripB_300pc/cs,0,0,0,0,PACKAGING,,14.4,,1,,,,0
+Sumner Vault,PINN PACK,P011,RingCakeBase_PinnPack _675pc/cs Item#07BR-538-X,94,0,0,0,PACKAGING,,77.11,,1,,,,7248.34
+Sumner Vault,GRIP B,P013,SingleLayerLid_GripB _200pc/cs Item#1517556,206,0,0,0,PACKAGING,,88.72,,1,,,,18276.32
+Sumner Vault,LANDSBERG,P014,SingleLayerCakeBase_GripB _200pc/cs,48,0,0,0,PACKAGING,,72.56,,1,,,,3482.88
+Sumner Vault,LANDSBERG,P015,CakePads_Landsberg _200pc/cs,92,0,0,0,PACKAGING,,34.7,,1,,,,3192.4
+Sumner Vault,GREAT LITTLE BOX COMPANY,P016,LayerCakeBox_GLBC_25pc/bn,79,0,0,0,PACKAGING,,22,,1,,,,1738
+Sumner Vault,LANDSBERG,P017,ShrinkWrap_Landsberg _4rl/cs Item#626851,0,0,0,0,PACKAGING,,44.77,,1,,,,0
+Sumner Vault,LANDSBERG,P018,HandTape_Landsberg_36rl/cs Item#626837,0,0,0,0,PACKAGING,,68.07,,1,,,,0
+Sumner Vault,LANDSBERG,P019,MachineTape_Landsberg _6rl/cs Item#626848,0,0,0,0,PACKAGING,,114.49,,1,,,,0
+Sumner Vault,LANDSBERG,P020,PalletPad_Landsberg_250/pl Item#147347,0,0,0,0,PACKAGING,,357.5,,1,,,,0
+Sumner Vault,LANDSBERG,P021,V-Board_Landsberg_2925/pl Item#1476155,0,0,0,0,PACKAGING,,1872,,1,,,,0
+Sumner Vault,LANDSBERG,P022,PalletCovers_Landsberg _1rl/cs Item#1476720,0,0,0,0,PACKAGING,,156.31,,1,,,,0
+Sumner Vault,LANDSBERG,P023,4X4Labels_Landsberg _6000pc/cs Item#1380686,5,0,0,0,PACKAGING,,124.62,,1,,,,623.1
+Sumner Vault,LANDSBERG,P024,SheetLiner_Landsberg _1000pc/cs Item#1352339,49,0,0,0,PACKAGING,,30.05,,1,,,,1472.45
+Sumner Vault,LANDSBERG,P025,TJ Cinnamon Coffee Cake Muffins Label 14oz_Landsberg_1000pc/rl Item#1540143,35,0,0,0,PACKAGING,,30,,1,,,,1050
+Sumner Vault,GREAT LITTLE BOX COMPANY,P026,"TJDoubleChocolateMuffins, 14oz_GLBC_1000pc/rl Item#904320073-001",123,0,0,0,PACKAGING,,33.38,,1,,,,4105.74
+Sumner Vault,GREAT LITTLE BOX COMPANY,P027,"AntoninasYellowDecoratedCupcakes, 4pk_GLBC_1000pc/rl Item#904320060-001",19,0,0,0,PACKAGING,,93.85,,1,,,,1783.15
+Sumner Vault,GREAT LITTLE BOX COMPANY,P028,"AntoninasChocolateDecoratedCupcakes, 4pk_GLBC_1000pc/rl Item#904320059-001",26,0,0,0,PACKAGING,,93.85,,1,,,,2440.1
+Sumner Vault,GREAT LITTLE BOX COMPANY,P029,"AntoninasSingleChocolateLayerCake, 30oz_GLBC_1000pc/rl Item#904320061-002",8,0,0,0,PACKAGING,,116.94,,1,,,,935.52
+Sumner Vault,GREAT LITTLE BOX COMPANY,P030,"AntoninasSingleYellowLayerCake, 30oz_GLBC_1000pc/rl Item#904320062-002",13,0,0,0,PACKAGING,,116.94,,1,,,,1520.22
+Sumner Vault,GREAT LITTLE BOX COMPANY,P031,"AntoninasBlueberryRaspberryMuffins, 14oz_GLBC_1000pc/rl",19,0,0,0,PACKAGING,,182.42,,1,,,,3465.98
+Sumner Vault,GREAT LITTLE BOX COMPANY,P032,"AntoninasBlueberryRaspberryMuffins, 10.5oz_GLBC_1000pc/rl Item#904320053-001",0,0,0,0,PACKAGING,,221.63,,1,,,,0
+Sumner Vault,GREAT LITTLE BOX COMPANY,P033,"AntoninasChocolateChipMuffins, 14oz_GLBC_1000pc/rl",9,0,0,0,PACKAGING,,123.57,,1,,,,1112.13
+Sumner Vault,GREAT LITTLE BOX COMPANY,P034,"AntoninasChocolateChipMuffins, 10.5oz_GLBC_1000pc/rl Item#904320054-001",13,0,0,0,PACKAGING,,123.57,,1,,,,1606.41
+Sumner Vault,GREAT LITTLE BOX COMPANY,P035,"AntoninasLemonPoppySeedMuffins, 14oz_GLBC_1000pc/rl",13,0,0,0,PACKAGING,,123.57,,1,,,,1606.41
+Sumner Vault,GREAT LITTLE BOX COMPANY,P036,"AntoninasCinnamonChipMuffin, 14oz_GLBC_1000pc/rl",9,0,0,0,PACKAGING,,123.57,,1,,,,1112.13
+Sumner Vault,GREAT LITTLE BOX COMPANY,P037,"SimpleTruthCelebrationCake, 16oz_GLBC_GLBC_1000pc/rl",7,0,0,0,PACKAGING,,29.72,,1,,,,208.04
+Sumner Vault,GREAT LITTLE BOX COMPANY,P038,"SimpleTruthDoubleChocolateCake, 16oz_GLBC_1000pc/rl Item#904320008-001",10,0,0,0,PACKAGING,,139.34,,1,,,,1393.4
+Sumner Vault,GREAT LITTLE BOX COMPANY,P039,"TJPumpkinMuffins, 14oz_GLBC_1000pc/rl",380,0,0,0,PACKAGING,,33.38,,1,,,,12684.4
+Sumner Vault,GREAT LITTLE BOX COMPANY,P040,"TJ Triple Ginger Muffins, 14oz_GLBC_1000pc/rl Item#904320083-001",0,0,0,0,PACKAGING,,27.29,,1,,,,0
+Sumner Vault,INTERNATIONAL FOOD PRODUCTS,I001,WhiteRiceFlour_WesternFoods _50lb/bg_50pp Item#202621,80,0,0,0,INGREDIENT,,44.21,,1,,,,3536.8
+Sumner Vault,INTERNATIONAL FOOD PRODUCTS,I002,BrownRiceFlour_WesternFoods _50lb/bg_50pp Item#202628,173,0,0,0,INGREDIENT,,46.19,,1,,,,7990.87
+Sumner Vault,INTERNATIONAL FOOD PRODUCTS,I003,PotatoStarch_Agridient _50lb/bg_50pp Item#202677,50,0,0,0,INGREDIENT,,54.69,,1,,,,2734.5
+Sumner Vault,INTERNATIONAL FOOD PRODUCTS,I004,TapiocaStarch_Ingredion _50lb/bg_50pp Item#202562,59,0,0,0,INGREDIENT,,60.11,,1,,,,3546.49
+Sumner Vault,INTERNATIONAL FOOD PRODUCTS,I005,Tapioca Starch_Agridient _50lb/bg_50pp,0,0,0,0,INGREDIENT,,57.52,,1,,,,0
+Sumner Vault,INTERNATIONAL FOOD PRODUCTS,I006,CornStarch_Tate&Lyle _50lb/bg_45pp Item#202769,36,0,0,0,INGREDIENT,,39.6,,1,,,,1425.6
+Sumner Vault,INTERNATIONAL FOOD PRODUCTS,I007,CocoaPowder_Cargill _50lb/bg_50pp Item#202263,18,0,0,0,INGREDIENT,,126.3,,1,,,,2273.4
+Sumner Vault,INTERNATIONAL FOOD PRODUCTS,I009,SugarGranulated_Lantic _50lb/bg_50pp,211,0,0,0,INGREDIENT,,27.18,,1,,,,5734.98
+Sumner Vault,INTERNATIONAL FOOD PRODUCTS,I010,Brown Sugar Imperial Item#200253 (50lb/bag),94,0,0,0,INGREDIENT,,39.68,,1,,,,3729.92
+Sumner Vault,INTERNATIONAL FOOD PRODUCTS,I011,Salt_Morton_50lb/bg Item#202612,6,0,0,0,INGREDIENT,,25.65,,1,,,,153.9
+Sumner Vault,INTERNATIONAL FOOD PRODUCTS,I012,SugarPowdered_ImperialSugar _50lb/bg_50pp Item#200270,80,0,0,0,INGREDIENT,,38.43,,1,,,,3074.4
+Sumner Vault,INTERNATIONAL FOOD PRODUCTS,I013,BakingSoda_GenesisAlkali _50lb/bg Item#200214,7,0,0,0,INGREDIENT,,40.89,,1,,,,286.23
+Sumner Vault,INTERNATIONAL FOOD PRODUCTS,I014,BakingPowder_DakotaBlenders _50lb/bg Item#202576,33,0,0,0,INGREDIENT,,120.96,,1,,,,3991.68
+Sumner Vault,INTERNATIONAL FOOD PRODUCTS,I015,XanthanGum_Fufeng_50lb/bg Item#201594,7,0,0,0,INGREDIENT,,337.07,,1,,,,2359.49
+Sumner Vault,MEDOSWEET,I016,EggsLiquid_Willamette_40lb/cs Item#1159,0,0,0,0,INGREDIENT,,20.89,,1,,,,0
+Sumner Vault,MEDOSWEET,I017,EggsLiquid_Stiebrs_30lb/cs,120,0,0,0,INGREDIENT,,20.89,,1,,,,2506.8
+Sumner Vault,MEDOSWEET,I018,Buttermilk_CountyMorningFarms _5ga/bg_45pp,113,0,0,0,INGREDIENT,,17.12,,1,,,,1934.56
+Sumner Vault,MEDOSWEET,I019,Buttermilk_SmithBrotherFarms _5ga/bg_45pp,0,0,0,0,INGREDIENT,,17.12,,1,,,,0
+Sumner Vault,PETERSON,I020,Sourcream_Daisy_27lb/cs_84pp Item#IDA645,130,0,0,0,INGREDIENT,,38.15,,1,,,,4959.5
+Sumner Vault,MEDOSWEET,I021,ButterUnsalted_Darigold_55lb/cs Item#2235,21,0,0,0,INGREDIENT,,140.14,,1,,,,2942.94
+Sumner Vault,MEDOSWEET,I022,HeavyCream_Medosweet_5ga/cs Item#801,0,0,0,0,INGREDIENT,,94.09,,1,,,,0
+Sumner Vault,DAWN FOODS INC,I023,BlueberryFrozen_DawnFoods _30lb/cs Item#760357,0,0,0,0,INGREDIENT,,86.64,,1,,,,0
+Sumner Vault,DAWN FOODS INC,I024,RaspberryFrozen_DawnFoods _25lb/bx Item#215251,0,0,0,0,INGREDIENT,,128.88,,1,,,,0
+Sumner Vault,PETERSON,I025,DoblaMistral_Dobla _1085pc/cs Item#27630,111,0,0,0,INGREDIENT,,50.31,,1,,,,5584.41
+Sumner Vault,PETERSON,I026,DoblaForestShaving_Dobla _2850pc/cs Item#25811,11,0,0,0,INGREDIENT,,465.05,,1,,,,5115.55
+Sumner Vault,PETERSON,I027,DoblaTwister_Dobla _18900pc/cs Item#25820,3,0,0,0,INGREDIENT,,329.47,,1,,,,988.41
+Sumner Vault,MAVERICK OIL,I028,CanolaOil_Gemsa _35lb/jg_60pp,240,0,0,0,INGREDIENT,,47.25,,1,,,,11340
+Sumner Vault,SA MILLIGAN,I031,CinnamonGround_SonHaSpice _25lb/cs,27,0,0,0,INGREDIENT,,102.5,,1,,,,2767.5
+Sumner Vault,FLAVORCHEM,I032,Cinnamon_Flavorchem _55ga/dr_4pp Item#25.998,0,0,0,0,INGREDIENT,,77.97,,1,,,,0
+Sumner Vault,RIA DISTRIBUTION,I033,VanillaExtract_RiaDistribution _55ga/dr_4pp,4,0,0,0,INGREDIENT,,2538.75,,1,,,,10155
+Sumner Vault,COSTCO,I034,SugarInTheRaw_Costco_ 6lb/bg_210pp Item#317946,295,0,0,0,INGREDIENT,,7.99,,1,,,,2357.05
+Sumner Vault,BAKE MARK,I035,SugarCrystal_C&H _25lb/bg_84pp Item#9485,168,0,0,0,INGREDIENT,,35.9,,1,,,,6031.2
+Sumner Vault,INTERNATIONAL FOOD PRODUCTS,I037,ChocolateChips_BarryChallebaut _44lb/bg Item#203015,6,0,0,0,INGREDIENT,,129.62,,1,,,,777.72
+Sumner Vault,BAYCO,I038,ChocolateChips_Unigra _50lb/bg Item#4032,450,0,0,0,INGREDIENT,,130,,1,,,,58500
+Sumner Vault,SA MILLIGAN,I039,Nutmeg_PacificSpiceCompany _25lb/cs Item#747001-950,0,0,0,0,INGREDIENT,,500,,1,,,,0
+Sumner Vault,SA MILLIGAN,I040,Cloves_PacificSpiceCompany _25lb/cs Item#729001-950,0,0,0,0,INGREDIENT,,375,,1,,,,0
+Sumner Vault,FOOD GUYS,I042,GFRolledOats_Inmolsia _50lb/bg Item#FT.I.HI,0,0,0,0,INGREDIENT,,1.21,,1,,,,0
+Sumner Vault,SA MILLIGAN,I043,AllSpice_PacificSpiceCompany _25lb/bg Item#713001-925,0,0,0,0,INGREDIENT,,152.5,,1,,,,0
+Sumner Vault,SA MILLIGAN,I044,SpiceBlend_SAMilligan _50lb/cs Item#901801-950,0,0,0,0,INGREDIENT,,315,,1,,,,0
+Sumner Vault,SA MILLIGAN,I045,GingerGround_HudsonTraders _50lb/bg Item#737001-950-AB,0,0,0,0,INGREDIENT,,187.5,,1,,,,0
+Sumner Vault,THE GINGER PEOPLE,I046,GingerPuree_TheGingerPeople _22.05lb/BLItem#25116,0,0,0,0,INGREDIENT,,2.22,,1,,,,0
+Sumner Vault,THE GINGER PEOPLE,I047,GingerinSyrup_TheGingerPeople _29.8lb/bkItem#21244,0,0,0,0,INGREDIENT,,2.95,,1,,,,0
+Sumner Vault,THE GINGER PEOPLE,I048,GingerCrystalized_TheGingerPeople _25.4lb/bg Item#20144,0,0,0,0,INGREDIENT,,4.43,,1,,,,0
+Sumner Vault,OLIVE NATION,I051,LemonEmulsion_OliveNation _1gal Item#BAI14,0,0,0,0,INGREDIENT,,63.99,,1,,,,0
+Sumner Vault,DAWN FOODS INC,I052,PoppySeed_Bayst_50lb/bg Item#250241,0,0,0,0,INGREDIENT,,116.9,,1,,,,0
+Sumner Vault,COSTCO,I008,Coffee_Folgers _1lb/jg_ 480pp Item#24722,1164,0,0,0,INGREDIENT,,10.69,,1,,,,12443.16
+Sumner Vault,DSM,I029,A2_Maxapal_44lb/jg Item#20821,10,0,0,0,INGREDIENT,,5589.2,,1,,,,55892
+Sumner Vault,FLAVORCHEM,I036,ChocolateFlavor_Flavorchem _5ga/jg Item#17.1179,22,0,0,0,INGREDIENT,,77.97,,1,,,,1715.34
+Sumner Vault,OLIVE NATION,I049,LemonExtract_OliveNation _1gal Item#AAQ128,0,0,0,0,INGREDIENT,,54.99,,1,,,,0
+Sumner Vault,OLIVE NATION,I050,LemonOil_OliveNation _32floz Item#OCY14,0,0,0,0,INGREDIENT,,477.99,,1,,,,0
+Sumner Vault,CEREAL INGREDIENTS,I041,Cinnamon Chips Inclusions (50lb/cs)Item#2756-4,0,0,0,0,INGREDIENT,,150.5,,1,,,,0
+Sumner Vault,SYSCO,I053,Mayonnaise_Sysco _30lb/cs_60pp Item#4116489,0,0,0,0,INGREDIENT,,47.99,,1,,,,0
+Sumner Vault,INTERNATIONAL FOOD PRODUCTS,I054,SunflowerLecithin_ NavadaImports_44lb/cs Item#203018,0,0,0,0,INGREDIENT,,687.8,,1,,,,0
+Sumner Vault,BAYCO,I055,PalmShortening_Olera_50lb/cs Item#3639,0,0,0,0,INGREDIENT,,52.9,,1,,,,0
+Sumner Vault,SYSCO,I056,OilSprayCans_ParwayTryson _6btls/cs,0,0,0,0,INGREDIENT,,42.89,,1,,,,0
+Sumner Vault,MEDOSWEET,I058,Milk2%_SmithBrotherFarms Item#0206,0,0,0,0,INGREDIENT,,3.13,,1,,,,0
+Sumner Vault,BC FOODS,I057,PumpkinPowder_BCFoods _50lb/cs,0,0,0,0,INGREDIENT,,500,,1,,,,0
+Sumner Vault,Uline,P041,CleanMatPad_Uline_60sh/ct Item#H-3465BLU,0,0,0,0,PACKAGING,,58,,1,,,,0
+Sumner Vault,MEDOSWEET,I059,Buttermilk_EdaleenDairy _5ga/bg_45pp Item#0507,0,0,0,0,INGREDIENT,,16.19,,1,,,,0
+Sumner Vault,GREAT LITTLE BOX COMPANY,P012,RingCakeBox(12pk)_GLBC _25pc/bn,0,0,0,0,PACKAGING,,72.56,,1,,,,0
+Sumner Vault,BRIDGEWELL,I060,TapiocaStarch_Bridgewell _50lb/bg,0,0,0,0,INGREDIENT,,55,,1,,,,0
