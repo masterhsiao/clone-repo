@@ -23,9 +23,21 @@ customers = [
 #   Silver = 1001-2000
 #   Bronze = 0-1000
 def create_greeting(first_name, last_name, revenue):
-    # @TODO: YOUR CODE HERE!
-    greeting = ""
-    return greeting
+    if revenue >= 3001:
+        return f"Dear {first_name} {last_name}, as a Platinum customer, we wanted to express our sincere gratitude for your loyalty and support. We value your business and look forward to serving you for many years to come."
+    elif revenue >= 2001:
+        return f"Dear {first_name} {last_name}, as a Gold customer, we appreciate your continued support and look forward to providing you with excellent service. Thank you for choosing us."
+    elif revenue >= 1001:
+        return f"Dear {first_name} {last_name}, as a Silver customer, we value your business and look forward to serving you. Thank you for choosing us."
+    else:
+        return f"Dear {first_name} {last_name}, as a Bronze customer, we appreciate your business and hope to serve you again in the future. Thank you for choosing us."
+
+for customer in customers:
+    first_name = customer["first_name"]
+    last_name = customer["last_name"]
+    revenue = customer["revenue"]
+    greeting = create_greeting(first_name, last_name, revenue)
+    print(greeting)
 
 # @TODO: Loop through the list of customers and use your function to print
 # custom greetings for each customer.

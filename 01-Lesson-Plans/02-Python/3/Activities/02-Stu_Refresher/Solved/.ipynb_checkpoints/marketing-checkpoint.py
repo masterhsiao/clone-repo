@@ -14,11 +14,12 @@ customers = [
     { "first_name": "Susy", "last_name": "Simmons", "revenue": 5322 }
 ]
 
+
 # Define a function that accepts a customer first_name, last_name,
 # and revenue and returns a custom greeting using the full name.
 # Use these ranges to determine the business tier (and corresponding message)
 # for each customer.
-#   Platinum = 3001+
+#   Platinum = 3001
 #   Gold = 2001-3000
 #   Silver = 1001-2000
 #   Bronze = 0-1000
@@ -49,3 +50,8 @@ def create_greeting(first_name, last_name, revenue):
 for customer in customers:
     greeting = create_greeting(customer['first_name'], customer['last_name'], customer['revenue'])
     print(greeting)
+
+    
+
+# chat.openai.com/chat
+    
